@@ -1,0 +1,6 @@
+{
+  "name": "PatunganYuk!",
+  "description": "Aplikasi Manajemen Keuangan Kelompok & Bill Splitter Pintar dengan lokasi GPS, kamera struk, dan WhatsApp reminder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
